@@ -8,3 +8,4 @@ diccionarios (dic)      {'color':'rojo','arte':'cine'}
 tuples (tup)            ('lun','mar','mie','jue','vie')
 sets (set)              {'a','b','c','d','e'}
 booleanos (bool)        True, False
+
