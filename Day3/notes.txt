@@ -1,0 +1,9 @@
+index
+
+1.-Conocer el índice de un caracter
+2.-Conocer qué caracter hay en un índice
+
+mi_texto = "hola"
+mi_texto[3]
+
+>>>>>>>>a
