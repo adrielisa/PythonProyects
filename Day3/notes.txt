@@ -12,3 +12,12 @@ slicing (rebanar o cortar en rodajas)
 
 Nos permite extraer algo de un texto y almacenarlo en una variable
 
+-----------------------------------------------
+
+Métodos de strings:
+
+upper () - pasar a mayúsculas
+lower () - pasar a minúsculas
+split () - separarlo en partes (lista)
+join () - unir items usando separador
+find () - encontrar un sub-string
