@@ -1,4 +1,6 @@
 n1 = "Kari"
+n2 = "na"
+
 print(n1 *10)
 
 poema = """Mil pequeños peces blancos
