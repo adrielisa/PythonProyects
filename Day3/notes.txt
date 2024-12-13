@@ -21,3 +21,14 @@ lower () - pasar a minúsculas
 split () - separarlo en partes (lista)
 join () - unir items usando separador
 find () - encontrar un sub-string
+
+-----------------------------------------------
+
+strings
+
+-Son inmutables
+-Pueden concatenarse
+-Pueden multplicarse
+-Multilineales con """ """
+-Verificar si contiene
+-Calcular longitud
