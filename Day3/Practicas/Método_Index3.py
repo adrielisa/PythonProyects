@@ -8,5 +8,5 @@ frase = "En teoría, la teoría y la práctica son los mismos. En la práctica, 
 
 frase = "En teoría, la teoría y la práctica son los mismos. En la práctica, no lo son."
 
-palaba = frase.rindex("práctica")
-print(palaba)
+palabra = frase.rindex("práctica")
+print(palabra)

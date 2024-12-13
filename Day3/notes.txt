@@ -7,3 +7,8 @@ mi_texto = "hola"
 mi_texto[3]
 
 >>>>>>>>a
+-----------------------------------------------
+slicing (rebanar o cortar en rodajas)
+
+Nos permite extraer algo de un texto y almacenarlo en una variable
+
