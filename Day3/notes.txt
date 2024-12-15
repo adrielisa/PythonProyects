@@ -46,3 +46,13 @@ como estén ordenados los elementos
 -----------------------------------------------
 
 Las tuplas son como las listas, a diferencia de que las tuplas son INMUTABLES
+
+-----------------------------------------------
+
+sets
+
+-Los sets son únicos, por lo que si hay datos repetidos se descartan
+-Son inmutables, por lo que no se pueden añadir listas ni diccionarios
+- se declaran así:
+     set = [{'a','b','c'}]
+     {'a','b','c'}
