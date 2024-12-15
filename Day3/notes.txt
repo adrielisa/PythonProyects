@@ -32,3 +32,13 @@ strings
 -Multilineales con """ """
 -Verificar si contiene
 -Calcular longitud
+
+-----------------------------------------------
+
+Diccionarios
+
+Los diccionarios en python son como uno real, asocias una "palabra" con su "concepto",
+a diferencia de las listas, los diccionarios no tienen índices por lo que no importa 
+como estén ordenados los elementos 
+
+-Para almacenar valores con su concepto, sin importar el orden
