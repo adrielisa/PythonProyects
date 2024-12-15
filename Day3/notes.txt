@@ -42,3 +42,7 @@ a diferencia de las listas, los diccionarios no tienen índices por lo que no im
 como estén ordenados los elementos 
 
 -Para almacenar valores con su concepto, sin importar el orden
+
+-----------------------------------------------
+
+Las tuplas son como las listas, a diferencia de que las tuplas son INMUTABLES
