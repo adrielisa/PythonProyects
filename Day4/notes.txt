@@ -1,0 +1,5 @@
+Loops
+
+Existen objetos iterables, como una lista, los diccionrios, los strings, porque podemos ejecutar un loop por 
+cada elemento de la lista.
+
