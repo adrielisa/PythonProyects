@@ -17,3 +17,4 @@ palabra1 = "éxito"
 palabra2 = "tecnología"
 
 mi_bool = palabra1 and palabra2 not in frase
+
